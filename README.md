@@ -2,4 +2,4 @@ O programa é um sistema de faturamento em Java que utiliza o padrão Interprete
 contas por meio da resolução dinâmica de fórmulas matemáticas definidas em texto.
 
 ## Diagrama
-<img width="588" height="426" alt="image" src="https://github.com/user-attachments/assets/48b1a141-7cb2-45a0-b8b4-430d8be60a28" />
+<img width="578" height="414" alt="image" src="https://github.com/user-attachments/assets/c88df37a-1703-4fc0-939f-b99c80c66ef7" />
